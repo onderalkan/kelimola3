@@ -1,2 +1,2 @@
-# kelimola3
-Web Worlde Game Clone with Turkish alphabet and three letter words
+# wordle_game
+Web [Wordle Game Clone](https://www.powerlanguage.co.uk/wordle/) but using Turkish alphabet and words
